@@ -2,7 +2,7 @@ numpy==1.16.1
 pandas==0.24.1
 scikit-learn==0.20.0
 scipy==1.2.1
-tensorflow==1.9.0
+tensorflow==1.12.1
 keras-preprocessing==1.0.9
 keras-applications==1.0.7
 opencv-python==3.4.1.15
