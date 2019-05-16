@@ -10,35 +10,7 @@ import random
 from keras.preprocessing import image
 import tensorflow as tf
 
-labels = ['A', 
- 'B',
- 'C',
- 'D',
- 'E',
- 'F',
- 'G',
- 'H',
- 'I',
- 'J',
- 'K',
- 'L',
- 'M',
- 'N',
- 'O',
- 'P',
- 'Q',
- 'R',
- 'S',
- 'T',
- 'U',
- 'V',
- 'W',
- 'X',
- 'Y',
- 'Z',
- 'del',
- 'nothing',
- 'space']
+labels = ['A', 'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','del','nothing','space']
 
 model1 = fetch_model()
 model1.summary()
