@@ -1,7 +1,7 @@
 ## American Sign Languages (ASL) Classifier
 
 
-An attempt to implement a more accurate learning model for classifier of ASL
+An attempt to implement a more accurate learning model for classifying ASL
 
 
 Kaggle kernel: https://www.kaggle.com/wufangyu/kernel94c47f1083
