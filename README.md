@@ -39,8 +39,8 @@ Idea: Use soft voting from different machine learning models: CNN, SVM, RF(Rando
 
 TO-DO:
 * Add suitable Local Feature Descriptors (e.g. SIFT, SURF) into SVM model
-* reduce the size of HOG featurizer values to make all global features could fit in memory
-* preprocess train-data to Improve the performance of K-Folder cross validation 
+* reduce the size of HOG featurizer values to make all global features fit in memory
+* preprocess train-data to improve the performance of K-Folder cross validation 
 
 
 Updating...
