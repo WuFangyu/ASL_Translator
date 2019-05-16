@@ -25,7 +25,10 @@ Install package
 $ pip install -r requirements.txt
 ```
 
+Run
+```bash
 python example.py
+```
 
 Update:
 
